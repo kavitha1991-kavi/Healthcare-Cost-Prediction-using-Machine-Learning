@@ -159,6 +159,3 @@ Potential improvements to this project include:
 * Creating an interactive dashboard to communicate healthcare cost insights.
 
 
-
-**Next, I can help you with the exact GitHub upload steps** — including how to upload your **Jupyter Notebook + dataset + requirements.txt**, and how to make the repository look polished for recruiters.
-```
