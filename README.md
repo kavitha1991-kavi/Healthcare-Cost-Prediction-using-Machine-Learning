@@ -149,13 +149,5 @@ The project provided the following key insights:
 * Random Forest Regression provided better predictive performance than Linear Regression.
 * Feature importance analysis helped identify the major factors influencing healthcare cost predictions.
 
-Potential improvements to this project include:
-
-* Hyperparameter tuning of the Random Forest model.
-* Testing additional regression algorithms such as Gradient Boosting and XGBoost.
-* Applying cross-validation for more robust model evaluation.
-* Using one-hot encoding instead of label encoding where appropriate.
-* Deploying the model as a web application using Flask or Streamlit.
-* Creating an interactive dashboard to communicate healthcare cost insights.
 
 
